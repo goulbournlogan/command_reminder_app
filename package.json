@@ -1,0 +1,23 @@
+{
+  "name": "command_reminder_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goulbournlogan/command_reminder_app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goulbournlogan/command_reminder_app/issues"
+  },
+  "homepage": "https://github.com/goulbournlogan/command_reminder_app#readme",
+  "dependencies": {
+    "figlet": "^1.5.0",
+    "inquirer": "^7.3.3"
+  }
+}
